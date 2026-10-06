@@ -1,0 +1,12 @@
+========================================
+          RAILWAY BOOKING
+========================================
+PNR           : 456396
+Passenger     : Sravani
+Age           : 22
+Train Number  : 12760
+Journey Date  : 24-10-2026
+Seats         : 4
+Travel Class  : Sleeper
+========================================
+
